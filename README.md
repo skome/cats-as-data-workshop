@@ -5,3 +5,5 @@ The original metadata from the source institutions has been abbreviated and made
 messier so you have something to clean up!
 
 The associated images are in the images folder
+
+We're gonna have a clean up plan
